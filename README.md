@@ -1,8 +1,5 @@
 # Group6_amazon_products_project
 
-Certainly! Below is a basic conversion of your project scope, problem statement, and key components into a README format:
-
----
 
 # Project: Predictive Modeling for Best-Selling Products in E-commerce
 
