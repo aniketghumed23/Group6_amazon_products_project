@@ -17,7 +17,6 @@ The machine learning component of this project aims to address the specific prob
 - **Opportunities:** Enhancing customer experience, increasing profitability, and gaining a competitive edge in the market.
 - **Stakeholders:** Retailers, marketers, supply chain managers, and consumers.
 
-Certainly! Below is a better-formatted version of the literature review section for a README:
 
 ## Literature Review
 
