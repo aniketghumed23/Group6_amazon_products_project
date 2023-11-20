@@ -82,3 +82,32 @@ Privacy concerns, ethical considerations, and the need for interpretable models 
 
 Setting clear KPIs will guide the optimization process and ensure the effectiveness of the predictive model in the e-commerce domain.
 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# PROJECT DELIVERABLE 2
+
+## Table of Contents
+
+*Phase 2: Machine Learning Problem Framing, Data Pre-Processing*
+   - *Set Up AWS Environment*
+     - Account Setup
+     - Team Access to AWS Learner Lab and GitHub - Gave team access to github
+     - IAM Roles Creation - used LabRole which was alread specfied
+
+   - *S3 Data Storage*
+     - Created an S3 Bucket with name amazon_products_data
+     - Uploading Data to the S3 Bucket to folders amazon_products and amazon_categories
+
+   - *Data Exploration for Insight and Pre-processing*
+     - Using Amazon Athena for Querying Transformed Data - Adding data to athena table named amazon_products and amazon_categories
+     - SQL Queries for Data Exploration - Wrote queries such as average price, price category
+     - Visualizations using Amazon QuickSight - created visualization on the data using amazon quicksight and athena
+
+   - *AWS Glue ETL Job*
+     - Creating an ETL Job in AWS Glue - Create ETL job for Filter, Aggregate, change data type etc
+     - Performing Basic Data Transformations - Done
+
+   - *Phase 2 Deliverable*
+     - Project Repository on GitHub (Updated Table of Contents)
+     - Deliverable 2 Document Accessibility in GitHub (with Screenshots)
+
