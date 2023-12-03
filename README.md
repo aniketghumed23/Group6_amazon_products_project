@@ -111,3 +111,47 @@ Setting clear KPIs will guide the optimization process and ensure the effectiven
      - Project Repository on GitHub (Updated Table of Contents)
      - Deliverable 2 Document Accessibility in GitHub (with Screenshots)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# PROJECT DELIVERABLE 3
+
+## Table of Contents
+1. Machine Learning Frameworks
+   - Used Machine learning frameworks such as:
+
+      ### Data Processing Libraries
+      1. *NumPy:* A fundamental package for scientific computing with Python, commonly used for performing operations on arrays.
+      2. *Pandas:* A fast, powerful, and flexible data analysis and manipulation tool, commonly used for working with structured data like CSV files.
+      
+      ### Data Visualization Libraries
+      1. *Matplotlib:* A comprehensive library for creating static, animated, and interactive visualizations in Python.
+      2. *Seaborn:* A Python data visualization library based on matplotlib, providing a high-level interface for drawing attractive and informative statistical graphics.
+      3. *Plotly Express:* A terse, consistent, high-level API for creating figures. It provides a simple way to create interactive, declarative plots.
+      4. *Bokeh:* A Python interactive visualization library that targets modern web browsers for presentation, enabling beautiful and meaningful visual presentation of data in modern web browsers.
+      5. *Altair:* A declarative statistical visualization library for Python, based on Vega and Vega-Lite visualization grammars.
+      6. *ggplot (from ggpy):* A Python implementation of the grammar of graphics for creating plots. It's based on the original ggplot2 for R.
+      7. *HoloViews:* A Python library for building complex visualizations easily and declaratively.
+      8. *Folium:* A library that makes it easy to visualize data that’s been manipulated in Python on an interactive leaflet map.
+    
+      ### TRAINING
+     1. *AWS SageMaker*:  is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly
+
+   
+2. Model Development and Training
+   - Trained the model using SKLearn in sagemaker estimator
+   - Instance used was ml.m4.xlarge for sagemaker training jobs
+     
+3. Model Evaluation and Validation
+   - Model Performance Metrics
+   ### Classification Report
+   
+   |        | Precision | Recall | F1-score | Support |
+   |--------|-----------|--------|----------|---------|
+   | False  | 0.99      | 1.00   | 1.00     | 283544  |
+   | True   | 0.33      | 0.01   | 0.01     | 1724    |
+   |        |           |        |          |         |
+   | Accuracy |         |        | 0.99     | 285268  |
+   | Macro Avg | 0.66   | 0.50   | 0.51     | 285268  |
+   | Weighted Avg | 0.99| 0.99   | 0.99     | 285268  |
+
+4. Hyperparameter Tuning
+   - Not needed and optional
