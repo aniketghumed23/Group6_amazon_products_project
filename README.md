@@ -158,7 +158,8 @@ Setting clear KPIs will guide the optimization process and ensure the effectiven
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # PROJECT DELIVERABLE 4
 
-PHASE 4: Optimization, Scalability and Deployment
-AWS Cost Analysis and Optimization - Completed
-Scaling the Pipeline - Completed (Optional)
-Deployment - Completed
+- [Phase 4: Optimization, Scalability and Deployment](#phase-4-optimization-scalability-and-deployment)
+  - [AWS Cost Analysis and Optimization](#aws-cost-analysis-and-optimization) - Completed
+  - [Scaling the Pipeline](#scaling-the-pipeline) - Completed (Optional)
+  - [Deployment](#deployment) - Completed
+
