@@ -155,3 +155,10 @@ Setting clear KPIs will guide the optimization process and ensure the effectiven
 
 4. Hyperparameter Tuning
    - Not needed and optional
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# PROJECT DELIVERABLE 4
+
+PHASE 4: Optimization, Scalability and Deployment
+AWS Cost Analysis and Optimization - Completed
+Scaling the Pipeline - Completed (Optional)
+Deployment - Completed
